@@ -3,7 +3,7 @@
 Website portofolio pribadi sebagai tugas Web Developer.
 
 # [portofolio-1-dicky.vercel.app](https://portofolio-1-dicky.vercel.app)
-# [preview portofolio] (<img width="185" height="374" alt="priviwe 1" src="https://github.com/user-attachments/assets/808162c9-084c-45c1-b2f1-221ed3430978" />
+# (<img width="185" height="374" alt="priviwe 1" src="https://github.com/user-attachments/assets/808162c9-084c-45c1-b2f1-221ed3430978" />
 .png)
 
 ## Tentang
