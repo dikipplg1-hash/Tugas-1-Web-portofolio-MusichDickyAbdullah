@@ -2,7 +2,8 @@
 
 Website portofolio pribadi sebagai tugas Web Developer.
 
-🔗 **Demo:** [portofolio-1-dicky.vercel.app](https://portofolio-1-dicky.vercel.app)
+# [portofolio-1-dicky.vercel.app](https://portofolio-1-dicky.vercel.app)
+# [preview portofolio] 
 
 ## Tentang
 Siswa kelas 10 PPLG SMK Brantas Karangkates yang sedang belajar membangun website dari nol.
